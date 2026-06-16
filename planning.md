@@ -1,9 +1,6 @@
 # FitFindr — planning.md
 
-> Complete this document before writing any implementation code.
-> Your spec and agent diagram are what you'll use to direct AI tools (Claude, Copilot, etc.) to generate your implementation — the more specific they are, the more useful the generated code will be.
-> Your planning.md will be reviewed as part of your submission.
-> Update it before starting any stretch features.
+> FitFindr searches marketplace listings to find items that match a user's size, budget, and style preferences. When a matching item is found, it pairs it with pieces from the user's existing wardrobe to recommend a complete outfit and generate a social media caption. If the search returns no results, the process stops and provides the user with suggestions to adjust their criteria.
 
 ---
 
