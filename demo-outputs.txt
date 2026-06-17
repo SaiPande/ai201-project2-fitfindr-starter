@@ -1,0 +1,26 @@
+=== Happy path: vintage tee ===
+Query: vintage graphic tee under $30 | Wardrobe: Example wardrobe
+--- Listing ---
+Straight Leg Khaki Trousers — Olive — W30 — $29.0 — excellent on poshmark
+--- Outfit ---
+Style Straight Leg Khaki Trousers — Olive with your White ribbed tank top, Chunky white sneakers, Brown leather belt for a laid-back, wearable outfit. The mix of easy layers and accessories will make the look feel complete.
+--- Fit Card ---
+Just scored the Straight Leg Khaki Trousers — Olive for $29.00 on poshmark. Style Straight Leg Khaki Trousers — Olive with your White ribbed tank top, Chunky white sneakers, Brown leather belt for a laid-back, wearable outfit. The mix of easy layers and accessories will make the look feel complete.
+
+=== Empty wardrobe: styling advice ===
+Query: vintage graphic tee under $30 | Wardrobe: Empty wardrobe (new user)
+--- Listing ---
+Straight Leg Khaki Trousers — Olive — W30 — $29.0 — excellent on poshmark
+--- Outfit ---
+Style Straight Leg Khaki Trousers — Olive with a fitted tee or cropped knit top and finish with chunky sneakers or combat boots. Layer on a denim jacket or oversized sweatshirt for an easy everyday outfit.
+--- Fit Card ---
+Just scored the Straight Leg Khaki Trousers — Olive for $29.00 on poshmark. Style Straight Leg Khaki Trousers — Olive with a fitted tee or cropped knit top and finish with chunky sneakers or combat boots. Layer on a denim jacket or oversized sweatshirt for an easy everyday outfit.
+
+=== No-results: impossible filters ===
+Query: designer ballgown size XXS under $5 | Wardrobe: Example wardrobe
+--- Listing ---
+Sorry, I couldn't find any listings that match your request. Try a broader description, a different size, or a higher price.
+--- Outfit ---
+(none)
+--- Fit Card ---
+(none)
