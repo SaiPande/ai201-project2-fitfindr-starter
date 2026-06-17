@@ -18,9 +18,6 @@ Usage (once implemented):
     print(result["error"])   # None on success
 """
 
-from tools import search_listings, suggest_outfit, create_fit_card
-
-
 # ── session state ─────────────────────────────────────────────────────────────
 
 # _new_session: builds the shared session state for a single interaction.
